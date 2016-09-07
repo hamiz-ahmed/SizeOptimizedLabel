@@ -1,6 +1,6 @@
 # SizeOptimizedLabel
 
-Description:
+<b>Description:</b>
 Optimizing font size go a UILabel to adjust automatically to different screen sizes, has always been a painful procedure. Size Optimized Label automatically adjusts font size of a UILabel with respect to different screen sizes.
 
 How to use:
